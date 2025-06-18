@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Liga_1_Max_logo.png/320px-Liga_1_Max_logo.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",L1 MAX FHD
-https://ag9wzq.fubohd.com:443/liga1max/mono.m3u8?token=e54e602ab3d82d160ffe0f6c4033395cbd6b78b4-60-1750229020-1750211020
+https://dmvudge.fubohd.com:443/liga1max/mono.m3u8?token=1903b6af1a57e2ae9be0ca3e896eac389d7e673a-a2-1750230500-1750212500
 
 #EXTINF:-1 tvg-id="GolPeruFHD" tvg-name="GOLPERU FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gol_Per%C3%BA_logo_2021.png/320px-Gol_Per%C3%BA_logo_2021.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",GOLPERU FHD
 https://c2f2zq.fubohd.com:443/golperu/mono.m3u8?token=75a0fd6550d24b6a3f410ddcdd8fe9bf730301e0-91-1750229645-1750211645
