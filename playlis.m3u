@@ -1,40 +1,40 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Liga_1_Max_logo.png/320px-Liga_1_Max_logo.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",L1 MAX FHD
-https://a2vlca.fubohd.com:443/liga1max/mono.m3u8?token=b030765ffd427983fad261662112940eddc51054-84-1750278555-1750260555
+https://wp9xqedt.fubohd.com:443/liga1max/mono.m3u8?token=5fd051578166ec163405bbb733785657bdb9373c-b1-1750472448-1750454448
 
 #EXTINF:-1 tvg-id="GolPeruFHD" tvg-name="GOLPERU FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gol_Per%C3%BA_logo_2021.png/320px-Gol_Per%C3%BA_logo_2021.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",GOLPERU FHD
-https://ag9wzq.fubohd.com:443/golperu/mono.m3u8?token=fdf8692a25d5919839de3614731ee4868e323a92-5e-1750278596-1750260596
+https://bgvnzw5k.fubohd.com:443/golperu/mono.m3u8?token=0b3a5b8c22a08515e8ccd56b53aae9939ae96941-a6-1750472594-1750454594
 
 #EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Movistar_Deportes_logo_2020.svg/320px-Movistar_Deportes_logo_2020.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
 https://YXdlc29tZQ.fubohd.com:443/movistar/mono.m3u8?token=6245e0d67cf3e623168146fe816fd4d7bf68a818-b8-1750278662-1750260662
 
 #EXTINF:-1 tvg-id="ESPNFHD" tvg-name="ESPN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Fútbol Perú" tvg-country="US" tvg-language="es",ESPN FHD
-https://Y2FzdGxl.fubohd.com:443/espn/mono.m3u8?token=c9de83618b3d69a166095ae0d290a87c8e3827f5-b5-1750278739-1750260739
+https://dglvz29s.fubohd.com:443/espn/mono.m3u8?token=98ff99e17fa00efef8dcf9c63ca9956bbd0ac213-90-1750472721-1750454721
 
 #EXTINF:-1 tvg-id="DSportsFHD" tvg-name="DSPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/DSports_logo.svg/320px-DSports_logo.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",DSPORTS FHD
-https://bmf0aw9u.fubohd.com:443/dsports/mono.m3u8?token=edb3d64f78e64594ad1ce7e22df6ab59e79543e5-8f-1750278711-1750260711
-
-#EXTINF:-1 tvg-id="AmericaTVFHD" tvg-name="AMERICA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/América_Televisión_2021_logo.svg/320px-América_Televisión_2021_logo.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",AMERICA TV FHD
-https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+https://bGFuZQ.fubohd.com:443/dsports/mono.m3u8?token=8414f1d9a4fdad5c69de54cf49333a68176ae689-4e-1750472774-1750454774
 
 #EXTINF:-1 tvg-id="LatinaFHD" tvg-name="LATINA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Latina_Television_logo_2023.svg/320px-Latina_Television_logo_2023.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",LATINA FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/latinatv/bitel/latinatv_ori_360p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="ATVFHD" tvg-name="ATV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/ATV_Peru_Logo.png/320px-ATV_Peru_Logo.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",ATV FHD
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_360p/chunks.m3u8
+#EXTINF:-1 tvg-id="AmericaTVFHD" tvg-name="AMERICA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/América_Televisión_2021_logo.svg/320px-América_Televisión_2021_logo.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",AMERICA TV FHD
+https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaFHD" tvg-name="PANAMERICANA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Panamericana_Television_Logo_2013.svg/320px-Panamericana_Television_Logo_2013.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",PANAMERICANA FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TVPeruFHD" tvg-name="TV PERÚ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/TV_Peru_logo_2023.svg/320px-TV_Peru_logo_2023.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",TV PERÚ FHD
+https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ATVFHD" tvg-name="ATV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/ATV_Peru_Logo.png/320px-ATV_Peru_Logo.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",ATV FHD
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="WillaxFHD" tvg-name="WILLAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Willax_Television_logo.png/320px-Willax_Television_logo.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",WILLAX FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="GlobalFHD" tvg-name="GLOBAL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Global_Televisión_2010_logo.svg/320px-Global_Televisión_2010_logo.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",GLOBAL TV FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_360p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="TVPeruFHD" tvg-name="TV PERÚ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/TV_Peru_logo_2023.svg/320px-TV_Peru_logo_2023.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",TV PERÚ FHD
-https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NativaFHD" tvg-name="NATIVA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nativa_TV_logo.svg/320px-Nativa_TV_logo.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",NATIVA TV FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_360p/chunks.m3u8
