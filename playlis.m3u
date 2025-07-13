@@ -1,19 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="L1FHD" tvg-name="L1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",L1 FHD
+https://deportes2.ksdjugfsddeports.fun:9091/166_/tracks-v1a1/mono.m3u8?remote=179.6.29.171&token=859b4a6b893075be1939dcdd1f08383ee57b1b4d-25bf1a221c3587f74fe04d54eac70eb6-1752449130-1752427530
+
 #EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Liga_1_Max_logo.png/320px-Liga_1_Max_logo.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",L1 MAX FHD
-https://3095.crackstreamslivehd.com/liga1max/tracks-v1a1/mono.m3u8?ip=179.6.29.43&token=f1a9a1dc17094f7222cc534959c1a40f73e6702d-95-1750764274-1750710274
+https://deportes2.ksdjugfsddeports.fun:9091/27_/tracks-v1a1/mono.m3u8?remote=179.6.29.171&token=8dfb20cb5ec9be31fec055f0a2b40f0e827df10d-4ea4765bb91832526ad82bb922ef377b-1752449314-1752427714
 
 #EXTINF:-1 tvg-id="GolPeruFHD" tvg-name="GOLPERU FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Gol_Per%C3%BA_logo_2021.png/320px-Gol_Per%C3%BA_logo_2021.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",GOLPERU FHD
-https://bgvnzw5k.fubohd.com:443/golperu/mono.m3u8?token=0b3a5b8c22a08515e8ccd56b53aae9939ae96941-a6-1750472594-1750454594
+https://anvtcax.fubohd.com:443/golperu/mono.m3u8?token=6cbfd3b3e934629216f0ff25294a0e584a77b1d0-e9-1752466238-1752448238
 
 #EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Movistar_Deportes_logo_2020.svg/320px-Movistar_Deportes_logo_2020.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
-https://YXdlc29tZQ.fubohd.com:443/movistar/mono.m3u8?token=6245e0d67cf3e623168146fe816fd4d7bf68a818-b8-1750278662-1750260662
+https://tyg2mnl9.fubohd.com:443/movistardeportes/mono.m3u8?token=a51f92a7c4fe9e769bdccfc320e22d86fe589cf7-5e-1752466280-1752448280
 
 #EXTINF:-1 tvg-id="ESPNFHD" tvg-name="ESPN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="Fútbol Perú" tvg-country="US" tvg-language="es",ESPN FHD
-https://dglvz29s.fubohd.com:443/espn/mono.m3u8?token=98ff99e17fa00efef8dcf9c63ca9956bbd0ac213-90-1750472721-1750454721
+https://dglvz29s.fubohd.com:443/espn/mono.m3u8?token=75ecf57132bcf01296c6c7d4cf30d8db19a821cf-6-1752466169-1752448169
 
 #EXTINF:-1 tvg-id="DSportsFHD" tvg-name="DSPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/DSports_logo.svg/320px-DSports_logo.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",DSPORTS FHD
-https://bGFuZQ.fubohd.com:443/dsports/mono.m3u8?token=8414f1d9a4fdad5c69de54cf49333a68176ae689-4e-1750472774-1750454774
+https://deportes2.ksdjugfsddeports.fun:9091/164_/tracks-v1a1/mono.m3u8?remote=179.6.29.171&token=600e66855cf3e900b9a6367a70db2e3600924ec9-6eef685bf0d99193e74dd052741c5b42-1752449515-1752427915
 
 #EXTINF:-1 tvg-id="LatinaFHD" tvg-name="LATINA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Latina_Television_logo_2023.svg/320px-Latina_Television_logo_2023.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",LATINA FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/latinatv/bitel/latinatv_ori_360p/chunks.m3u8
