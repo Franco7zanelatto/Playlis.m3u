@@ -19,16 +19,16 @@ https://dglvz29s.fubohd.com:443/espn/mono.m3u8?token=75ecf57132bcf01296c6c7d4cf3
 https://deportes2.ksdjugfsddeports.fun:9091/164_/tracks-v1a1/mono.m3u8?remote=179.6.29.171&token=efbbced44cf66334c0d8045319a9015a0942041e-9270b3e85c8a3ad26a8e24d930cc4337-1752472668-1752451068
 
 #EXTINF:-1 tvg-id="LatinaFHD" tvg-name="LATINA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt6EDPqSSI-2pEQVUCh5NYRNuLnnz1qGp4A&s" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",LATINA FHD
-https://live-evg25.tv360.bitel.com.pe/bitel/latinatv/bitel/latinatv_ori_360p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTVFHD" tvg-name="AMERICA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",AMERICA TV FHD
-https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaFHD" tvg-name="PANAMERICANA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/512px-Panamericana-tv.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",PANAMERICANA FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruFHD" tvg-name="TV PERÚ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1280px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",TV PERÚ FHD
-https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_360p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ATVFHD" tvg-name="ATV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",ATV FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_360p/chunks.m3u8
@@ -41,4 +41,5 @@ https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_360p/chunks.
 
 #EXTINF:-1 tvg-id="NativaFHD" tvg-name="NATIVA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/250px-NativaTV_logo2.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",NATIVA TV FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_360p/chunks.m3u8
+
 
