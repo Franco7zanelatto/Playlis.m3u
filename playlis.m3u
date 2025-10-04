@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="L1FHD" tvg-name="L1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",L1 FHD
-https://deportes2.ksdjugfsddeports.fun:9091/166_/tracks-v1a1/mono.m3u8?remote=179.6.29.171&token=1ea5cc5ae7fd47d9dca3c2de0671d50ee585df5b-d22fcd65d96b7a6857c7ccc84b12774a-1752471652-1752450052
+https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/62_.m3u8?token=47oTowb2WyANwqA384YDsw&expires=1759554146
 
 #EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",L1 MAX FHD
-https://deportes2.ksdjugfsddeports.fun:9091/27_/tracks-v1a1/2025/07/13/23/47/52-06000.ts?token=e26ce3a7ab45c2be9356f7aed65b57000bb34f36-0e0acbdc1ed53f70e34deb5410be39cf-1752471749-1752450149
+https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/27_.m3u8?token=GcRmdJ2lquzLGoufX793Yg&expires=1759554217
 
 #EXTINF:-1 tvg-id="GolPeruFHD" tvg-name="GOLPERU FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",GOLPERU FHD
-https://anvtcax.fubohd.com:443/golperu/mono.m3u8?token=6cbfd3b3e934629216f0ff25294a0e584a77b1d0-e9-1752466238-1752448238
+https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/2_.m3u8?token=LKGN9Ipsw8DrODdwa88Jcw&expires=1759554280
 
 #EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
-https://tyg2mnl9.fubohd.com:443/movistardeportes/mono.m3u8?token=a51f92a7c4fe9e769bdccfc320e22d86fe589cf7-5e-1752466280-1752448280
+https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/44_.m3u8?token=q27xsb76_SzAr_37OJMUWg&expires=1759554361
 
 #EXTINF:-1 tvg-id="ESPNFHD" tvg-name="ESPN FHD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Fútbol Perú" tvg-country="US" tvg-language="es",ESPN FHD
-https://dglvz29s.fubohd.com:443/espn/mono.m3u8?token=75ecf57132bcf01296c6c7d4cf30d8db19a821cf-6-1752466169-1752448169
+https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/13_.m3u8?token=04zTtuX6eNHobbrRlg0qWQ&expires=1759554504
 
 #EXTINF:-1 tvg-id="DSportsFHD" tvg-name="DSPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",DSPORTS FHD
-https://deportes2.ksdjugfsddeports.fun:9091/164_/tracks-v1a1/mono.m3u8?remote=179.6.29.171&token=efbbced44cf66334c0d8045319a9015a0942041e-9270b3e85c8a3ad26a8e24d930cc4337-1752472668-1752451068
+https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/60_.m3u8?token=Bo-89NpH18lTJeGVf4foeg&expires=1759554478
 
 #EXTINF:-1 tvg-id="LatinaFHD" tvg-name="LATINA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt6EDPqSSI-2pEQVUCh5NYRNuLnnz1qGp4A&s" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",LATINA FHD
 https://live-evg20.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_360p/chunks.m3u8
@@ -25,21 +25,22 @@ https://live-evg20.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_360p/chunks.
 https://live-evg20.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaFHD" tvg-name="PANAMERICANA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/512px-Panamericana-tv.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",PANAMERICANA FHD
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_360p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TVPeruFHD" tvg-name="TV PERÚ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1280px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",TV PERÚ FHD
 https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ATVFHD" tvg-name="ATV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",ATV FHD
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_360p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/atv_abr/bitel/atv_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="WillaxFHD" tvg-name="WILLAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",WILLAX FHD
-https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_360p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="GlobalFHD" tvg-name="GLOBAL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",GLOBAL TV FHD
-https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_360p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/bitel/global_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NativaFHD" tvg-name="NATIVA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/250px-NativaTV_logo2.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",NATIVA TV FHD
-https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_360p/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
+
 
 
