@@ -6,19 +6,19 @@ https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/62_.m3u8?token=47oTo
 #EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",L1 MAX FHD
 http://38.183.182.166:8000/play/a12t/index.m3u8
 
-#EXTINF:-1 tvg-id="GolPeruFHD" tvg-name="GOLPERU FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",GOLPERU FHD
-http://38.183.182.166:8000/play/a120/index.m3u8
-
 #EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
 https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/44_.m3u8?token=q27xsb76_SzAr_37OJMUWg&expires=1759554361
 
-#EXTINF:-1 tvg-id="ESPNFHD" tvg-name="ESPN FHD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="Fútbol Perú" tvg-country="US" tvg-language="es",ESPN FHD
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/13_.m3u8?token=04zTtuX6eNHobbrRlg0qWQ&expires=1759554504
+#EXTINF:-1 tvg-id="ESPNDeportesFHD" tvg-name="ESPN DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="Fútbol Perú" tvg-country="US" tvg-language="es",ESPN DEPORTES FHD
+https://stream.mux.com/DyxPGQOWJuWUxJ7uY2lhrnI0102Z3lo3qUxlaW01zQ2Ozs.m3u8
 
 #EXTINF:-1 tvg-id="DSportsFHD" tvg-name="DSPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",DSPORTS FHD
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/60_.m3u8?token=Bo-89NpH18lTJeGVf4foeg&expires=1759554478
+http://38.183.182.166:8000/play/a125/index.m3u8
 
-#EXTINF:-1 tvg-id="LatinaFHD" tvg-name="LATINA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt6EDPqSSI-2pEQVUCh5NYRNuLnnz1qGp4A&s" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",LATINA FHD
+#EXTINF:-1 tvg-id="RealMdrisTVFHD" tvg-name="REAL MADRID TV FHD" tvg-logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png" group-title="Fútbol Español" tvg-country="ES" tvg-language="es",REAL MADRID TV FHD
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="LatinaFHD" tvg-name="LATINA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt6EDPqSSI-2pEQVUCh5NYRNuLnnz1qGp4A&s" group-title="TV - Perú" tvg-country="PE" tvg-language="es",LATINA FHD
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTVFHD" tvg-name="AMERICA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",AMERICA TV FHD
@@ -33,17 +33,23 @@ https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_360p/chunks.
 #EXTINF:-1 tvg-id="CanalNFHD" tvg-name="Canal N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvhRRldEctl5XkHn8PdHhH1xK84B2AIfPbg&s" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",CANAL N FHD
 http://181.188.216.5:18000/play/a01p/index.m3u8
 
-#EXTINF:-1 tvg-id="ATVFHD" tvg-name="ATV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",ATV FHD
+#EXTINF:-1 tvg-id="ATVFHD" tvg-name="ATV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="TV - Perú" tvg-country="PE" tvg-language="es",ATV FHD
 https://live-evg20.tv360.bitel.com.pe/bitel/atv_abr/bitel/atv_360p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="WillaxFHD" tvg-name="WILLAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",WILLAX FHD
+#EXTINF:-1 tvg-id="WillaxFHD" tvg-name="WILLAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="TV - Perú" tvg-country="PE" tvg-language="es",WILLAX FHD
 https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_360p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="GlobalFHD" tvg-name="GLOBAL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",GLOBAL TV FHD
+#EXTINF:-1 tvg-id="GlobalFHD" tvg-name="GLOBAL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="TV - Perú" tvg-country="PE" tvg-language="es",GLOBAL TV FHD
 https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/bitel/global_360p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NativaFHD" tvg-name="NATIVA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/250px-NativaTV_logo2.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",NATIVA TV FHD
+#EXTINF:-1 tvg-id="GolPeruFHD" tvg-name="GOLPERU FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",GOLPERU FHD
+http://38.183.182.166:8000/play/a120/index.m3u8
+
+#EXTINF:-1 tvg-id="NativaFHD" tvg-name="NATIVA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/250px-NativaTV_logo2.png" group-title="TV - Perú" tvg-country="PE" tvg-language="es",NATIVA TV FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Disney JRFHD" tvg-name="DISNEY JR FHD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="Infantil" tvg-country="PE" tvg-language="es",DISNEY JR FHD
+http://38.183.182.166:8000/play/a0j9/index.m3u8
 
 
 
