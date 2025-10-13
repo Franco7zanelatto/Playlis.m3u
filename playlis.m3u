@@ -4,10 +4,10 @@
 https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/62_.m3u8?token=47oTowb2WyANwqA384YDsw&expires=1759554146
 
 #EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",L1 MAX FHD
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/27_.m3u8?token=GcRmdJ2lquzLGoufX793Yg&expires=1759554217
+http://38.183.182.166:8000/play/a12t/index.m3u8
 
 #EXTINF:-1 tvg-id="GolPeruFHD" tvg-name="GOLPERU FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",GOLPERU FHD
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/2_.m3u8?token=LKGN9Ipsw8DrODdwa88Jcw&expires=1759554280
+http://38.183.182.166:8000/play/a120/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
 https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/44_.m3u8?token=q27xsb76_SzAr_37OJMUWg&expires=1759554361
@@ -19,7 +19,7 @@ https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/13_.m3u8?token=04zTt
 https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/60_.m3u8?token=Bo-89NpH18lTJeGVf4foeg&expires=1759554478
 
 #EXTINF:-1 tvg-id="LatinaFHD" tvg-name="LATINA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt6EDPqSSI-2pEQVUCh5NYRNuLnnz1qGp4A&s" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",LATINA FHD
-https://live-evg20.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_360p/chunks.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTVFHD" tvg-name="AMERICA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",AMERICA TV FHD
 https://live-evg20.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_480p/chunks.m3u8
@@ -29,6 +29,9 @@ https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_
 
 #EXTINF:-1 tvg-id="TVPeruFHD" tvg-name="TV PERÚ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1280px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",TV PERÚ FHD
 https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CanalNFHD" tvg-name="Canal N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvhRRldEctl5XkHn8PdHhH1xK84B2AIfPbg&s" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",CANAL N FHD
+http://181.188.216.5:18000/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="ATVFHD" tvg-name="ATV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",ATV FHD
 https://live-evg20.tv360.bitel.com.pe/bitel/atv_abr/bitel/atv_360p/chunks.m3u8
@@ -41,6 +44,7 @@ https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/bitel/global_360p/chunks.
 
 #EXTINF:-1 tvg-id="NativaFHD" tvg-name="NATIVA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/250px-NativaTV_logo2.png" group-title="Fútbol Perú" tvg-country="PE" tvg-language="es",NATIVA TV FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
+
 
 
 
