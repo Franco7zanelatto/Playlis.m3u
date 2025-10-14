@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="L1FHD" tvg-name="L1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",L1 FHD
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/62_.m3u8?token=47oTowb2WyANwqA384YDsw&expires=1759554146
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
 
 #EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",L1 MAX FHD
 http://38.183.182.166:8000/play/a12t/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
-https://deportes.ksdjugfsddeports.com:9092/MTc5LjYuMjguMTcx/44_.m3u8?token=q27xsb76_SzAr_37OJMUWg&expires=1759554361
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=80&f=.ts
 
 #EXTINF:-1 tvg-id="ESPNDeportesFHD" tvg-name="ESPN DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="TV" tvg-country="US" tvg-language="es",ESPN DEPORTES FHD
-https://stream.mux.com/DyxPGQOWJuWUxJ7uY2lhrnI0102Z3lo3qUxlaW01zQ2Ozs.m3u8
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=26&f=.ts
 
 #EXTINF:-1 tvg-id="DSportsFHD" tvg-name="DSPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="TV" tvg-country="PE" tvg-language="es",DSPORTS FHD
 http://38.183.182.166:8000/play/a125/index.m3u8
@@ -50,6 +50,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Disney JRFHD" tvg-name="DISNEY JR FHD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="Infantil" tvg-country="PE" tvg-language="es",DISNEY JR FHD
 http://38.183.182.166:8000/play/a0j9/index.m3u8
+
 
 
 
