@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="L1FHD" tvg-name="L1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",L1 FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
 
-#EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/2560px-L1MAX-LOGO.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",L1 MAX FHD
-http://38.183.182.166:8000/play/a12t/index.m3u8
+#EXTINF:-1,LIGA 1 FHD
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
 
 #EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=80&f=.ts
@@ -52,6 +52,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
 http://38.183.182.166:8000/play/a0j9/index.m3u8
 
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=105&f=.ts
+
 
 
 
