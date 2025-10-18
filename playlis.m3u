@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="L1FHD" tvg-name="L1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",L1 FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
 
@@ -9,7 +8,7 @@ http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=80&f=.ts
 
-#EXTINF:-1 tvg-id="ESPNDeportesFHD" tvg-name="ESPN DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="FÚTBOL" tvg-country="US" tvg-language="es",ESPN DEPORTES FHD
+#EXTINF:-1 tvg-id="ESPNFHD" tvg-name="ESPN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="FÚTBOL" tvg-country="US" tvg-language="es",ESPN FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=26&f=.ts
 
 #EXTINF:-1 tvg-id="DSportsFHD" tvg-name="DSPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",DSPORTS FHD
@@ -48,8 +47,21 @@ http://38.183.182.166:8000/play/a120/index.m3u8
 #EXTINF:-1 tvg-id="NativaFHD" tvg-name="NATIVA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/250px-NativaTV_logo2.png" group-title="TV" tvg-country="PE" tvg-language="es",NATIVA TV FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Disney JRFHD" tvg-name="DISNEY JR FHD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="INFANTIL" tvg-country="PE" tvg-language="es",DISNEY JR FHD
+#EXTINF:-1 tvg-id="Las Estrellas Méxco FHD" tvg-name="LAS ESTRELAS MEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png group-title="NOVELAS" tvg-country="PE" tvg-language="es",LAS ESTRELLAS MEX FHD
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-name="DISCOVEY KIDS FHD" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="INFANTIL" tvg-country="PE" tvg-language="es",DISCOVERY KIDS FHD
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
+
+#EXTINF:-1 tvg-id="Cartoonito FHD" tvg-name="CARTOONITO FHD" tvg-logo="https://i.imgur.com/9MrzLb1.png group-title="INFANTIL" tvg-country="PE" tvg-language="es",CARTOONITO FHD
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
+
+#EXTINF:-1 tvg-id="Nick JR FHD" tvg-name="NICK JR FHD" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="INFANTIL" tvg-country="PE" tvg-language="es",NICK JR FHD
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
+
+#EXTINF:-1 tvg-id="Disney JR FHD" tvg-name="DISNEY JR FHD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="INFANTIL" tvg-country="PE" tvg-language="es",DISNEY JR FHD
 http://38.183.182.166:8000/play/a0j9/index.m3u8
+
 
 
 
