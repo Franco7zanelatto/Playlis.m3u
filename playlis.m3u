@@ -54,13 +54,14 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
 
 #EXTINF:-1 tvg-id="Cartoonito FHD" tvg-name="CARTOONITO FHD" tvg-logo="https://i.imgur.com/9MrzLb1.png group-title="INFANTIL" tvg-country="PE" tvg-language="es",CARTOONITO FHD
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=108&f=.ts
 
 #EXTINF:-1 tvg-id="Nick JR FHD" tvg-name="NICK JR FHD" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="INFANTIL" tvg-country="PE" tvg-language="es",NICK JR FHD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
 
 #EXTINF:-1 tvg-id="Disney JR FHD" tvg-name="DISNEY JR FHD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="INFANTIL" tvg-country="PE" tvg-language="es",DISNEY JR FHD
 http://38.183.182.166:8000/play/a0j9/index.m3u8
+
 
 
 
