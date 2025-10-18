@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="L1FHD" tvg-name="L1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",L1 FHD
+#EXTINF:-1 tvg-id="L1FHD" tvg-name="L1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",L1 FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
 
-#EXTINF:-1,LIGA 1 FHD
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
+#EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="FÚTBOL tvg-country="PE" tvg-language="es",L1 MAX FHD
+http://38.183.182.166:8000/play/a12t/index.m3u8
 
-#EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
+#EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=80&f=.ts
 
-#EXTINF:-1 tvg-id="ESPNDeportesFHD" tvg-name="ESPN DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="TV" tvg-country="US" tvg-language="es",ESPN DEPORTES FHD
+#EXTINF:-1 tvg-id="ESPNDeportesFHD" tvg-name="ESPN DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="FÚTBOL" tvg-country="US" tvg-language="es",ESPN DEPORTES FHD
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=26&f=.ts
 
-#EXTINF:-1 tvg-id="DSportsFHD" tvg-name="DSPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="TV" tvg-country="PE" tvg-language="es",DSPORTS FHD
+#EXTINF:-1 tvg-id="DSportsFHD" tvg-name="DSPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",DSPORTS FHD
 http://38.183.182.166:8000/play/a125/index.m3u8
 
-#EXTINF:-1 tvg-id="RealMdrisTVFHD" tvg-name="REAL MADRID TV FHD" tvg-logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png" group-title="TV" tvg-country="ES" tvg-language="es",REAL MADRID TV FHD
+#EXTINF:-1 tvg-id="RealMdrisTVFHD" tvg-name="REAL MADRID TV FHD" tvg-logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png" group-title="FÚTBOL" tvg-country="ES" tvg-language="es",REAL MADRID TV FHD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 tvg-id="LatinaFHD" tvg-name="LATINA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt6EDPqSSI-2pEQVUCh5NYRNuLnnz1qGp4A&s" group-title="TV" tvg-country="PE" tvg-language="es",LATINA FHD
@@ -42,16 +42,16 @@ https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_360p/chunks.
 #EXTINF:-1 tvg-id="GlobalFHD" tvg-name="GLOBAL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="TV" tvg-country="PE" tvg-language="es",GLOBAL TV FHD
 https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/bitel/global_360p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="GolPeruFHD" tvg-name="GOLPERU FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="TV" tvg-country="PE" tvg-language="es",GOLPERU FHD
+#EXTINF:-1 tvg-id="GolPeruFHD" tvg-name="GOLPERU FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",GOLPERU FHD
 http://38.183.182.166:8000/play/a120/index.m3u8
 
 #EXTINF:-1 tvg-id="NativaFHD" tvg-name="NATIVA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/250px-NativaTV_logo2.png" group-title="TV" tvg-country="PE" tvg-language="es",NATIVA TV FHD
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Disney JRFHD" tvg-name="DISNEY JR FHD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="Infantil" tvg-country="PE" tvg-language="es",DISNEY JR FHD
+#EXTINF:-1 tvg-id="Disney JRFHD" tvg-name="DISNEY JR FHD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="INFANTIL" tvg-country="PE" tvg-language="es",DISNEY JR FHD
 http://38.183.182.166:8000/play/a0j9/index.m3u8
 
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=105&f=.ts
+
 
 
 
