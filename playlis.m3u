@@ -21,7 +21,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTVFHD" tvg-name="AMERICA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",AMERICA TV FHD
-https://live-evg20.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_480p/chunks.m3u8
+http://38.183.182.166:8000/play/a0rb/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaFHD" tvg-name="PANAMERICANA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/512px-Panamericana-tv.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",PANAMERICANA FHD
 https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_360p/chunks.m3u8
@@ -61,6 +61,7 @@ http://181.13.112.203:8100/play/a06u/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney JR FHD" tvg-name="DISNEY JR FHD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="INFANTIL" tvg-country="PE" tvg-language="es",DISNEY JR FHD
 http://38.183.182.166:8000/play/a0j9/index.m3u8
+
 
 
 
