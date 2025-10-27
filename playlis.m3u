@@ -6,7 +6,7 @@ http://148.72.155.144:8000/play/a01i/index.m3u8
 http://38.183.182.166:8000/play/a12t/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
-http://179.63.6.15:8000/play/a01t
+http://38.56.112.128:5000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNFHD" tvg-name="ESPN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="FÚTBOL" tvg-country="US" tvg-language="es",ESPN FHD
 http://38.51.234.11:8888/play/a0bx
@@ -30,7 +30,7 @@ https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_
 https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CanalNFHD" tvg-name="Canal N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvhRRldEctl5XkHn8PdHhH1xK84B2AIfPbg&s" group-title="TV" tvg-country="PE" tvg-language="es",CANAL N FHD
-http://179.63.6.15:8000/play/a01a
+http://38.210.3.64:8090/play/a0ha
 
 #EXTINF:-1 tvg-id="ATVFHD" tvg-name="ATV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="TV" tvg-country="PE" tvg-language="es",ATV FHD
 https://live-evg20.tv360.bitel.com.pe/bitel/atv_abr/bitel/atv_360p/chunks.m3u8
@@ -64,6 +64,7 @@ http://38.183.182.166:8000/play/a0j9/index.m3u8
 
 #EXTINF:-1 tvg-id="Culpa Tuya 2025" tvg-name="CULPA TUYA 2024" tvg-logo="https://wildpony.eu/wp-content/uploads/2024/05/TT_Culpas.png" group-title="Series",Culpa Tuya 2024
 https://1a-1791.com/video/fwe2/1e/s8/2/8/v/H/o/8vHox.aaa.mp4
+
 
 
 
