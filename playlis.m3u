@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="L1FHD" tvg-name="L1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",L1 FHD
-http://148.72.155.144:8000/play/a01i/index.m3u8
+http://38.199.5.160:8000/play/a04q/index.m3u8
 
-#EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="FÚTBOL tvg-country="PE" tvg-language="es",L1 MAX FHD
+#EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",L1 MAX FHD
 http://38.183.182.166:8000/play/a12t/index.m3u8
 
 #EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
@@ -30,7 +30,7 @@ https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_
 https://live-evg20.tv360.bitel.com.pe/bitel/tvperu_abr/bitel/tvperu_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CanalNFHD" tvg-name="Canal N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvhRRldEctl5XkHn8PdHhH1xK84B2AIfPbg&s" group-title="TV" tvg-country="PE" tvg-language="es",CANAL N FHD
-http://38.210.3.64:8090/play/a0ha
+http://199.188.103.176:8000/play/a0c2/index.m3u8
 
 #EXTINF:-1 tvg-id="ATVFHD" tvg-name="ATV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="TV" tvg-country="PE" tvg-language="es",ATV FHD
 https://live-evg20.tv360.bitel.com.pe/bitel/atv_abr/bitel/atv_360p/chunks.m3u8
@@ -62,8 +62,6 @@ http://181.13.112.203:8100/play/a06u/index.m3u8
 #EXTINF:-1 tvg-id="Disney JR FHD" tvg-name="DISNEY JR FHD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="INFANTIL" tvg-country="PE" tvg-language="es",DISNEY JR FHD
 http://38.183.182.166:8000/play/a0j9/index.m3u8
 
-#EXTINF:-1 tvg-id="Culpa Tuya 2025" tvg-name="CULPA TUYA 2024" tvg-logo="https://wildpony.eu/wp-content/uploads/2024/05/TT_Culpas.png" group-title="Series",Culpa Tuya 2024
-https://1a-1791.com/video/fwe2/1e/s8/2/8/v/H/o/8vHox.aaa.mp4
 
 
 
