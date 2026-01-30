@@ -1,78 +1,52 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="L1FHD" tvg-name="L1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/L1-LOGO.svg/512px-L1-LOGO.svg.png" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",L1 FHD
+#EXTINF:-1 group-title="IPTV PERÚ", América TV HD
+http://190.187.200.244:8000/play/a0p3/index.m3u8
+#EXTINF:-1 group-title="IPTV PERÚ", Latina HD
+http://190.187.200.244:8000/play/a0p7/index.m3u8
+#EXTINF:-1 group-title="IPTV PERÚ", ATV
+http://190.187.200.244:8000/play/a0te/index.m3u8
+#EXTINF:-1 group-title="IPTV PERÚ", Panamericana
+http://190.187.200.244:8000/play/a0td/index.m3u8
+#EXTINF:-1 group-title="IPTV PERÚ", Global TV
+http://190.187.200.244:8000/play/a0tg/index.m3u8
+#EXTINF:-1 group-title="IPTV PERÚ", RPP
+http://190.187.200.244:8000/play/a0tf/index.m3u8
+#EXTINF:-1 group-title="IPTV PERÚ", Canal N
+http://190.187.200.244:8000/play/a0wy/index.m3u8
+#EXTINF:-1 group-title="IPTV PERÚ", Willax
+http://190.187.200.244:8000/play/a0mi/index.m3u8
+
+#EXTINF:-1 group-title="IPTV INFANTIL", Cartoon Network
+http://190.187.200.244:8000/play/a0vm/index.m3u8
+#EXTINF:-1 group-title="IPTV INFANTIL", Disney HD
+http://190.187.200.244:8000/play/a0tc/index.m3u8
+#EXTINF:-1 group-title="IPTV INFANTIL", Nick HD
+http://190.187.200.244:8000/play/a0ok/index.m3u8
+#EXTINF:-1 group-title="IPTV INFANTIL", Discovery Kids
+http://190.187.200.244:8000/play/a0vl/index.m3u8
+
+#EXTINF:-1 group-title="IPTV DEPORTES", Movistar Deportes
+http://190.187.200.244:8000/play/a0x2/index.m3u8
+#EXTINF:-1 group-title="IPTV DEPORTES", L1 | PE
 http://38.199.5.160:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="IPTV DEPORTES", L1 MAX
+http://190.117.20.37:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="IPTV DEPORTES", DirecTV Sports
+http://190.187.200.244:8000/play/a0w5/index.m3u8
+#EXTINF:-1 group-title="IPTV DEPORTES", ESPN HD
+http://190.187.200.244:8000/play/a0vx/index.m3u8
+#EXTINF:-1 group-title="IPTV DEPORTES", ESPN 2 HD
+http://190.187.200.244:8000/play/a0oe/index.m3u8
+#EXTINF:-1 group-title="IPTV DEPORTES", TNT Sports
+http://190.187.200.244:8000/play/a0od/index.m3u8
 
-#EXTINF:-1 tvg-id="L1MAXFHD" tvg-name="L1 MAX FHD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",L1 MAX FHD
-http://190.233.83.45:1983/play/a1d9/index.m3u8
-
-#EXTINF:-1 tvg-id="MovistarDeportesFHD" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",MOVISTAR DEPORTES FHD
-http://181.66.181.222:1983/play/a1sk/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPNFHD" tvg-name="ESPN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="FÚTBOL" tvg-country="US" tvg-language="es",ESPN FHD
-http://45.173.72.26:2072/play/a0bn
-
-#EXTINF:-1 tvg-id="DSportsFHD" tvg-name="DSPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",DSPORTS FHD
-http://190.233.83.45:1983/play/a1un/index.m3u8
-
-#EXTINF:-1 tvg-id="RealMadridTVFHD" tvg-name="REAL MADRID TV FHD" tvg-logo="https://i.postimg.cc/2yp7nzVN/realmadridtv.png" group-title="FÚTBOL" tvg-country="ES" tvg-language="es",REAL MADRID TV FHD
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
-#EXTINF:-1 tvg-id="LatinaFHD" tvg-name="LATINA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt6EDPqSSI-2pEQVUCh5NYRNuLnnz1qGp4A&s" group-title="TV" tvg-country="PE" tvg-language="es",LATINA FHD
-http://38.199.4.105:9999/play/a038/index.m3u8
-
-#EXTINF:-1 tvg-id="AmericaTVFHD" tvg-name="AMERICA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",AMERICA TV FHD
-http://45.173.72.26:2072/play/a0ae
-
-#EXTINF:-1 tvg-id="PanamericanaFHD" tvg-name="PANAMERICANA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/512px-Panamericana-tv.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",PANAMERICANA FHD
-http://45.173.72.26:2072/play/a09q
-
-#EXTINF:-1 tvg-id="TVPeruFHD" tvg-name="TV PERÚ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1280px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="TV" tvg-country="PE" tvg-language="es",TV PERÚ FHD
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
-
-#EXTINF:-1 tvg-id="CanalNFHD" tvg-name="Canal N FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvhRRldEctl5XkHn8PdHhH1xK84B2AIfPbg&s" group-title="TV" tvg-country="PE" tvg-language="es",CANAL N FHD
-http://190.233.83.45:1983/play/a1ic/index.m3u8
-
-#EXTINF:-1 tvg-id="ATVFHD" tvg-name="ATV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="TV" tvg-country="PE" tvg-language="es",ATV FHD
-http://45.173.72.26:2072/play/a09p
-
-#EXTINF:-1 tvg-id="WillaxFHD" tvg-name="WILLAX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Willax_Televisi%C3%B3n.png" group-title="TV" tvg-country="PE" tvg-language="es",WILLAX FHD
-http://190.233.83.45:1983/play/a1dc/index.m3u8
-
-#EXTINF:-1 tvg-id="GlobalFHD" tvg-name="GLOBAL TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="TV" tvg-country="PE" tvg-language="es",GLOBAL TV FHD
-http://190.233.83.45:1983/play/a1rf/index.m3u8
-
-#EXTINF:-1 tvg-id="GolPeruFHD" tvg-name="GOLPERU FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es" group-title="FÚTBOL" tvg-country="PE" tvg-language="es",GOLPERU FHD
-http://38.210.3.64:8090/play/a0gx
-
-#EXTINF:-1 tvg-id="NativaFHD" tvg-name="NATIVA TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NativaTV_logo2.png/250px-NativaTV_logo2.png" group-title="TV" tvg-country="PE" tvg-language="es",NATIVA TV FHD
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Las Estrellas Méxco FHD" tvg-name="LAS ESTRELAS MEX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png group-title="NOVELAS" tvg-country="PE" tvg-language="es",LAS ESTRELLAS MEX FHD
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-name="DISCOVEY KIDS FHD" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="INFANTIL" tvg-country="PE" tvg-language="es",DISCOVERY KIDS FHD
-http://190.233.83.45:1983/play/a1kc/index.m3u8
-
-#EXTINF:-1 tvg-id="Cartoonito FHD" tvg-name="CARTOONITO FHD" tvg-logo="https://i.imgur.com/9MrzLb1.png group-title="INFANTIL" tvg-country="PE" tvg-language="es",CARTOONITO FHD
-http://181.66.181.222:1983/play/a1qb/index.m3u8
-
-#EXTINF:-1 tvg-id="Nick JR FHD" tvg-name="NICK JR FHD" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="INFANTIL" tvg-country="PE" tvg-language="es",NICK JR FHD
-http://181.13.112.203:8100/play/a06u/index.m3u8
-
-#EXTINF:-1 tvg-id="Disney JR FHD" tvg-name="DISNEY JR FHD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="INFANTIL" tvg-country="PE" tvg-language="es",DISNEY JR FHD
-http://190.233.83.45:1983/play/a1ig/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="IPTV CINE", HBO HD
+http://190.187.200.244:8000/play/a0v1/index.m3u8
+#EXTINF:-1 group-title="IPTV CINE", HBO 2
+http://190.187.200.244:8000/play/a0r0/index.m3u8
+#EXTINF:-1 group-title="IPTV CINE", Cinemax
+http://190.187.200.244:8000/play/a0u3/index.m3u8
+#EXTINF:-1 group-title="IPTV CINE", Cinecanal
+http://190.187.200.244:8000/play/a0nw/index.m3u8
+#EXTINF:-1 group-title="IPTV CINE", Golden HD
+http://190.187.200.244:8000/play/a0vt/index.m3u8
