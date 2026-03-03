@@ -1,52 +1,92 @@
 #EXTM3U
-#EXTINF:-1 group-title="IPTV PERÚ", América TV HD
+
+#######################
+# 🇵🇪 IPTV PERÚ
+#######################
+
+#EXTINF:-1 tvg-name="América TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="IPTV PERÚ",América TV HD
 http://190.187.200.244:8000/play/a0p3/index.m3u8
-#EXTINF:-1 group-title="IPTV PERÚ", Latina HD
+
+#EXTINF:-1 tvg-name="Latina HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Latina_Televisi%C3%B3n_logo.png" group-title="IPTV PERÚ",Latina HD
 http://190.187.200.244:8000/play/a0p7/index.m3u8
-#EXTINF:-1 group-title="IPTV PERÚ", ATV
+
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_logo_2020.png" group-title="IPTV PERÚ",ATV
 http://190.187.200.244:8000/play/a0te/index.m3u8
-#EXTINF:-1 group-title="IPTV PERÚ", Panamericana
+
+#EXTINF:-1 tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Panamericana_Televisi%C3%B3n_logo.png" group-title="IPTV PERÚ",Panamericana
 http://190.187.200.244:8000/play/a0td/index.m3u8
-#EXTINF:-1 group-title="IPTV PERÚ", Global TV
+
+#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Global_Televisi%C3%B3n_logo.png" group-title="IPTV PERÚ",Global TV
 http://190.187.200.244:8000/play/a0tg/index.m3u8
-#EXTINF:-1 group-title="IPTV PERÚ", RPP
+
+#EXTINF:-1 tvg-name="RPP Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/RPP_Logo.png" group-title="IPTV PERÚ",RPP Noticias
 http://190.187.200.244:8000/play/a0tf/index.m3u8
-#EXTINF:-1 group-title="IPTV PERÚ", Canal N
+
+#EXTINF:-1 tvg-name="Canal N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Canal_N_logo.png" group-title="IPTV PERÚ",Canal N
 http://190.187.200.244:8000/play/a0wy/index.m3u8
-#EXTINF:-1 group-title="IPTV PERÚ", Willax
+
+#EXTINF:-1 tvg-name="Willax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Willax_TV_logo.png" group-title="IPTV PERÚ",Willax TV
 http://190.187.200.244:8000/play/a0mi/index.m3u8
 
-#EXTINF:-1 group-title="IPTV INFANTIL", Cartoon Network
+
+#######################
+# 👶 IPTV INFANTIL
+#######################
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Cartoon_Network_2010_logo.svg" group-title="IPTV INFANTIL",Cartoon Network
 http://190.187.200.244:8000/play/a0vm/index.m3u8
-#EXTINF:-1 group-title="IPTV INFANTIL", Disney HD
+
+#EXTINF:-1 tvg-name="Disney HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney_Channel_logo_2014.png" group-title="IPTV INFANTIL",Disney HD
 http://190.187.200.244:8000/play/a0tc/index.m3u8
-#EXTINF:-1 group-title="IPTV INFANTIL", Nick HD
+
+#EXTINF:-1 tvg-name="Nick HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nickelodeon_2009_logo.svg" group-title="IPTV INFANTIL",Nick HD
 http://190.187.200.244:8000/play/a0ok/index.m3u8
-#EXTINF:-1 group-title="IPTV INFANTIL", Discovery Kids
+
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Discovery_Kids_Logo_2019.svg" group-title="IPTV INFANTIL",Discovery Kids
 http://190.187.200.244:8000/play/a0vl/index.m3u8
 
-#EXTINF:-1 group-title="IPTV DEPORTES", Movistar Deportes
+
+#######################
+# ⚽ IPTV DEPORTES
+#######################
+
+#EXTINF:-1 tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Movistar_Deportes_logo.png" group-title="IPTV DEPORTES",Movistar Deportes
 http://190.187.200.244:8000/play/a0x2/index.m3u8
-#EXTINF:-1 group-title="IPTV DEPORTES", L1 | PE
+
+#EXTINF:-1 tvg-name="Liga 1 PE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Liga1_logo.png" group-title="IPTV DEPORTES",Liga 1 PE
 http://38.199.5.160:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="IPTV DEPORTES", L1 MAX
+
+#EXTINF:-1 tvg-name="Liga 1 MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Liga1_logo.png" group-title="IPTV DEPORTES",Liga 1 MAX
 http://190.117.20.37:8000/play/a08c/index.m3u8
-#EXTINF:-1 group-title="IPTV DEPORTES", DirecTV Sports
+
+#EXTINF:-1 tvg-name="DirecTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/DirecTV_Sports_logo.png" group-title="IPTV DEPORTES",DirecTV Sports
 http://190.187.200.244:8000/play/a0w5/index.m3u8
-#EXTINF:-1 group-title="IPTV DEPORTES", ESPN HD
+
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="IPTV DEPORTES",ESPN HD
 http://190.187.200.244:8000/play/a0vx/index.m3u8
-#EXTINF:-1 group-title="IPTV DEPORTES", ESPN 2 HD
+
+#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="IPTV DEPORTES",ESPN 2 HD
 http://190.187.200.244:8000/play/a0oe/index.m3u8
-#EXTINF:-1 group-title="IPTV DEPORTES", TNT Sports
+
+#EXTINF:-1 tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/TNT_Sports_logo.png" group-title="IPTV DEPORTES",TNT Sports
 http://190.187.200.244:8000/play/a0od/index.m3u8
 
-#EXTINF:-1 group-title="IPTV CINE", HBO HD
+
+#######################
+# 🎬 IPTV CINE
+#######################
+
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="IPTV CINE",HBO HD
 http://190.187.200.244:8000/play/a0v1/index.m3u8
-#EXTINF:-1 group-title="IPTV CINE", HBO 2
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="IPTV CINE",HBO 2
 http://190.187.200.244:8000/play/a0r0/index.m3u8
-#EXTINF:-1 group-title="IPTV CINE", Cinemax
+
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Cinemax_logo.svg" group-title="IPTV CINE",Cinemax
 http://190.187.200.244:8000/play/a0u3/index.m3u8
-#EXTINF:-1 group-title="IPTV CINE", Cinecanal
+
+#EXTINF:-1 tvg-name="Cinecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Cinecanal_logo.png" group-title="IPTV CINE",Cinecanal
 http://190.187.200.244:8000/play/a0nw/index.m3u8
-#EXTINF:-1 group-title="IPTV CINE", Golden HD
+
+#EXTINF:-1 tvg-name="Golden HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Golden_logo.png" group-title="IPTV CINE",Golden HD
 http://190.187.200.244:8000/play/a0vt/index.m3u8
