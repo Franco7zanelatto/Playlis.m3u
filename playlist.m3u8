@@ -1,0 +1,128 @@
+#EXTM3U
+
+# ==========================================
+# 🇵🇪 PERÚ / CANALES NACIONALES Y DEPORTES PERÚ
+# ==========================================
+#EXTINF:-1 tvg-name="CANAL N" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_N_2022.svg/revision/latest/scale-to-width-down/280?cb=20240120012033&path-prefix=es" group-title="PERU",CANAL N
+http://38.19.16.151:8000/play/a09a
+
+#EXTINF:-1 tvg-name="L1 MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES",L1 MAX HD
+http://190.117.20.37:8000/play/a08c/index.m3u8
+
+#EXTINF:-1 tvg-name="AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="PERU",AMERICA TV HD
+http://179.1.139.84:8000/play/a0hl/index.m3u8
+
+#EXTINF:-1 tvg-name="L1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/L1_logo_2024.svg/revision/latest/scale-to-width-down/284?cb=20240224045917&path-prefix=es" group-title="DEPORTES",L1 HD
+http://38.199.5.160:8000/play/a04q/index.m3u8
+
+#EXTINF:-1 tvg-name="ATV SUR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="PERU",ATV SUR HD
+http://177.53.153.207:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-name="ATV+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="PERU",ATV+ HD
+http://177.53.153.207:8000/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-name="EXITOSA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="PERU",EXITOSA TV
+http://177.53.153.207:8000/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-name="WILLAX TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Willax_Televisi%C3%B3n_logo_con_texto_blanco_y_sombra_2015.svg/revision/latest/scale-to-width-down/1200?cb=20221028023906&path-prefix=es" group-title="PERU",WILLAX TV
+http://177.53.153.207:8000/play/a01a/index.m3u8
+
+# ==========================================
+# ⚽ DEPORTES
+# ==========================================
+#EXTINF:-1 tvg-name="AM SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/1280px-Logo_AM-sports-2019.svg.png" group-title="DEPORTES",AM SPORTS
+http://177.53.153.207:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-name="AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Azteca_logo.png" group-title="DEPORTES",AZTECA DEPORTES
+http://45.167.1.138:8000/play/a01c
+
+#EXTINF:-1 tvg-name="CLARO SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg" group-title="DEPORTES",CLARO SPORTS 1 HD
+http://45.167.1.138:8000/play/a00d
+
+#EXTINF:-1 tvg-name="CLARO SPORTS 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg" group-title="DEPORTES",CLARO SPORTS 1 SD
+http://45.167.1.138:8000/play/a04e
+
+#EXTINF:-1 tvg-name="CLARO SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES",CLARO SPORTS 2 HD
+http://45.167.1.138:8000/play/a00e
+
+#EXTINF:-1 tvg-name="CLARO SPORTS 2 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES",CLARO SPORTS 2 SD
+http://45.167.1.138:8000/play/a02j
+
+#EXTINF:-1 tvg-name="DEPORTES TVC HONDURAS" tvg-logo="https://www.deportestvc.com/images/deportes/logos/logo-deportes-primary-yellow-stripes.webp" group-title="DEPORTES",DEPORTES TVC HONDURAS
+http://45.167.1.138:8000/play/a02x
+
+#EXTINF:-1 tvg-name="DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1920px-DeporTV_%282020_Logo_oficial%29.png" group-title="DEPORTES",DEPORTV
+http://177.53.153.207:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN HD
+http://177.53.153.207:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/3840px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 HD
+http://177.53.153.207:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" group-title="DEPORTES",ESPN 3 HD
+http://177.53.153.207:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="DEPORTES",ESPN 4 HD
+http://177.53.153.207:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/3840px-Fox_Sports_1_logo.svg.png" group-title="DEPORTES",FOX SPORTS HD
+http://177.53.153.207:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/3840px-Fox_sports_2_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 HD
+http://177.53.153.207:8000/play/a006/index.m3u8
+
+#EXTINF:-1 tvg-name="FOX SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 HD
+http://177.53.153.207:8000/play/a001/index.m3u8
+
+#EXTINF:-1 tvg-name="TYC SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/3840px-TyC_Sports_logo.svg.png" group-title="DEPORTES",TYC SPORTS HD
+http://177.53.153.207:8000/play/a005/index.m3u8
+
+
+# ==========================================
+# 🎬 CINE Y SERIES
+# ==========================================
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="SERIES",A&E HD
+http://45.167.1.138:8000/play/a05j
+
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CINE",AMC HD
+http://45.167.1.138:8000/play/a05k
+
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="SERIES",AXN HD
+http://45.167.1.138:8000/play/a04s
+
+#EXTINF:-1 tvg-name="AZ CORAZON" tvg-logo="https://masmediatv.es/images/2020/canales-azcorazon.png" group-title="SERIES",AZ CORAZON
+http://45.167.1.138:8000/play/a014
+
+#EXTINF:-1 tvg-name="CINE.AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png" group-title="CINE",CINE.AR
+http://177.53.153.207:8000/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-name="CINECANAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE",CINECANAL HD
+http://177.53.153.207:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-name="TLNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="SERIES",TELENOVELAS
+http://177.53.153.207:8000/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CINE",TNT HD
+http://177.53.153.207:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SERIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/TNT_Series_2025.svg" group-title="SERIES",TNT SERIES HD
+http://177.53.153.207:8000/play/a010/index.m3u8
+
+# ==========================================
+# 🌎ARGENTINA
+# ==========================================
+#EXTINF:-1 tvg-name="AMERICA TV AR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ARGENTINA",AMERICA TV AR HD
+http://177.53.153.207:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-name="EL NUEVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA",EL NUEVE HD
+http://177.53.153.207:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-name="EL TRECE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="ARGENTINA",EL TRECE HD
+http://177.53.153.207:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-name="TELEFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",TELEFE HD
+http://177.53.153.207:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-name="TV PUBLICA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" group-title="ARGENTINA",TV PUBLICA HD
+http://177.53.153.207:8000/play/a00h/index.m3u8
