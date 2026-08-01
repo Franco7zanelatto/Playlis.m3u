@@ -4,13 +4,16 @@
 # 🇵🇪 PERÚ / CANALES NACIONALES Y DEPORTES PERÚ
 # ==========================================
 #EXTINF:-1 tvg-name="CANAL N" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Canal_N_2022.svg/revision/latest/scale-to-width-down/280?cb=20240120012033&path-prefix=es" group-title="PERU",CANAL N
-http://38.19.16.151:8000/play/a09a
+http://179.1.146.22:8000/play/a0q8/index.m3u8
 
 #EXTINF:-1 tvg-name="L1 MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES",L1 MAX HD
 http://190.117.20.37:8000/play/a08c/index.m3u8
 
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/960px-Movistar_Deportes.svg.png" group-title="DEPORTES",MOVISTAR DEPORTES HD
+http://205.235.6.29:8000/play/a0zd/index.m3u8
+
 #EXTINF:-1 tvg-name="AMERICA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="PERU",AMERICA TV HD
-http://179.1.139.84:8000/play/a0hl/index.m3u8
+http://205.235.6.29:8000/play/a0ut/index.m3u8
 
 #EXTINF:-1 tvg-name="L1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/L1_logo_2024.svg/revision/latest/scale-to-width-down/284?cb=20240224045917&path-prefix=es" group-title="DEPORTES",L1 HD
 http://38.199.5.160:8000/play/a04q/index.m3u8
@@ -24,6 +27,12 @@ http://177.53.153.207:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-name="EXITOSA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="PERU",EXITOSA TV
 http://177.53.153.207:8000/play/a016/index.m3u8
 
+#EXTINF:-1 tvg-name="LATINA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Latina_TV_2014.svg/revision/latest/scale-to-width-down/140?cb=20210524150237&path-prefix=es" group-title="PERU",LATINA TV
+http://179.1.146.22:8000/play/a0my/index.m3u8
+
+#EXTINF:-1 tvg-name="PANAMERICANA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/960px-Panamericana-tv.svg.png" group-title="PERU",PANAMERICANA TV
+http://179.1.146.22:8000/play/a0na/index.m3u8
+
 #EXTINF:-1 tvg-name="WILLAX TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Willax_Televisi%C3%B3n_logo_con_texto_blanco_y_sombra_2015.svg/revision/latest/scale-to-width-down/1200?cb=20221028023906&path-prefix=es" group-title="PERU",WILLAX TV
 http://177.53.153.207:8000/play/a01a/index.m3u8
 
@@ -34,28 +43,28 @@ http://177.53.153.207:8000/play/a01a/index.m3u8
 http://177.53.153.207:8000/play/a01z/index.m3u8
 
 #EXTINF:-1 tvg-name="AZTECA DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Azteca_logo.png" group-title="DEPORTES",AZTECA DEPORTES
-http://45.167.1.138:8000/play/a01c
+http://209.87.175.160:5001/play/a0mb/index.m3u8
 
 #EXTINF:-1 tvg-name="CLARO SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg" group-title="DEPORTES",CLARO SPORTS 1 HD
-http://45.167.1.138:8000/play/a00d
+http://209.87.175.160:5001/play/a0cm/index.m3u8
 
 #EXTINF:-1 tvg-name="CLARO SPORTS 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg" group-title="DEPORTES",CLARO SPORTS 1 SD
-http://45.167.1.138:8000/play/a04e
+http://209.87.175.160:5001/play/a0cm/index.m3u8
 
 #EXTINF:-1 tvg-name="CLARO SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES",CLARO SPORTS 2 HD
-http://45.167.1.138:8000/play/a00e
+http://45.228.233.60:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-name="CLARO SPORTS 2 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES",CLARO SPORTS 2 SD
-http://45.167.1.138:8000/play/a02j
+http://45.228.233.60:8000/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-name="DEPORTES TVC HONDURAS" tvg-logo="https://www.deportestvc.com/images/deportes/logos/logo-deportes-primary-yellow-stripes.webp" group-title="DEPORTES",DEPORTES TVC HONDURAS
-http://45.167.1.138:8000/play/a02x
+http://209.87.175.160:5001/play/a0kl/index.m3u8
 
 #EXTINF:-1 tvg-name="DEPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1920px-DeporTV_%282020_Logo_oficial%29.png" group-title="DEPORTES",DEPORTV
 http://177.53.153.207:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN HD
-http://177.53.153.207:8000/play/a00j/index.m3u8
+http://168.228.44.241:9998/play/a04o/index.m3u8
 
 #EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/3840px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 HD
 http://177.53.153.207:8000/play/a00i/index.m3u8
@@ -83,16 +92,16 @@ http://177.53.153.207:8000/play/a005/index.m3u8
 # 🎬 CINE Y SERIES
 # ==========================================
 #EXTINF:-1 tvg-name="A&E HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="SERIES",A&E HD
-http://45.167.1.138:8000/play/a05j
+http://179.1.146.22:8000/play/a0bb/index.m3u8
 
 #EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CINE",AMC HD
-http://45.167.1.138:8000/play/a05k
+http://179.1.146.22:8000/play/a0bn/index.m3u8
 
 #EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="SERIES",AXN HD
-http://45.167.1.138:8000/play/a04s
+http://179.1.146.22:8000/play/a0bj/index.m3u8
 
 #EXTINF:-1 tvg-name="AZ CORAZON" tvg-logo="https://masmediatv.es/images/2020/canales-azcorazon.png" group-title="SERIES",AZ CORAZON
-http://45.167.1.138:8000/play/a014
+http://45.228.233.60:8000/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-name="CINE.AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CINEARLogo.png" group-title="CINE",CINE.AR
 http://177.53.153.207:8000/play/a009/index.m3u8
